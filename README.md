@@ -1,0 +1,2 @@
+# Secure-Password-Generator
+ This script allows users to specify the number of passwords to generate and the desired length for each password. It employs a combination of uppercase letters, lowercase letters, digits, and special characters to create strong passwords. The user interface is simple and intuitive, guiding users through the password generation process while handling invalid inputs gracefully
